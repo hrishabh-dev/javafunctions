@@ -15,6 +15,8 @@ public class factor {
         int n=sc.nextInt();
         int f=fact(n);
         System.out.println("factorial is :-"+f);
+        System.out.println("Done");
     }
+    
     
 }
