@@ -16,6 +16,7 @@ public class oddno {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         odd(n);
+        System.out.println("Done");
         sc.close();
 
         
